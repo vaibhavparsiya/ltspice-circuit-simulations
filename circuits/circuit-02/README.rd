@@ -1,2 +1,1 @@
-A full wave rectifier is an electronic circuit that converts the entire alternating current (AC) input waveform into pulsating direct current (DC) by utilizing both the positive and negative half-cycles.  This process yields a higher average output voltage and 
-significantly reduced ripple compared to half-wave rectifiers, resulting in greater efficiency.
+
